@@ -9,3 +9,4 @@ npm install
 cp .env.example .env
 knex migrate:latest
 ...
+#Todo
